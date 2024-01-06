@@ -26,5 +26,7 @@
 2: 评委 30分（有一票否决权，拒绝各种作弊，AI除外）
 
 
+
 未解决的问题：
 1. 文章有些返回307 HTTP error fetching URL. Status=307, URL=https://towardsdatascience.com/10-common-software-architectural-patterns-in-a-nutshell-a0b47a1e9013
+2. 百度翻译api 身份验证未能通过，翻译未能完成。
